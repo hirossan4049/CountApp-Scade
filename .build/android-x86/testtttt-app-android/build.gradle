@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:3.4.2"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.3.31"
+    }
+}
+
+
+android {
+    // disable lint release checks
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "com.scade.testtttt"
+        minSdkVersion 19
+        targetSdkVersion 28
+        multiDexEnabled true
+    }
+
+    signingConfigs {
+        release {
+            def keystorePropertiesFileName=""
+            def keystoreProperties = new Properties()
+            if (keystorePropertiesFileName != "") {
+                def keystorePropertiesFile = rootProject.file(keystorePropertiesFileName)
+                keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+
+                storePassword keystoreProperties['storePassword']
+                keyPassword keystoreProperties['keyPassword']
+                keyAlias keystoreProperties['keyAlias']
+                storeFile file(keystoreProperties['storeFile'])
+            }
+        }
+    }
+
+    buildTypes {
+        debug {
+            jniDebuggable true
+            debuggable true
+        }
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['java_src']
+            resources.srcDirs = ['java_src']
+            aidl.srcDirs = ['java_src']
+            renderscript.srcDirs = ['java_src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+            jniLibs.srcDirs = ["libs"]
+        }
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+
+dependencies {
+    compile 'com.google.android.gms:play-services:9.2.0'
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:multidex:1.0.3'
+
+}

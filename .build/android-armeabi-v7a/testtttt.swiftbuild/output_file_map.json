@@ -1,0 +1,14 @@
+{
+    "/Users/unkonow/Scade/testtttt/src/main.page.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/src/main.page.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/src/main.page.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/src/start.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/src/start.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/src/start.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/gen-proxies/testtttt.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/gen-proxies/testtttt.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/gen-proxies/testtttt.swift.dep"
+    }
+}

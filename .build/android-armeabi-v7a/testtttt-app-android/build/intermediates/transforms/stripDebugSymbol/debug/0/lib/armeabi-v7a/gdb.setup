@@ -1,0 +1,4 @@
+set solib-search-path /Users/unkonow/Scade/testtttt/.build/android-armeabi-v7a/testtttt-app-android/obj/local/armeabi-v7a
+source /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/prebuilt/common/gdb/common.setup
+directory /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/platforms/android-21/arch-arm/usr/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+
