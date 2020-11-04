@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-7984ac7cb8ab3ea50cb40ddb88226889 CMakeFiles/testtttt-app
-3fbe78c41c74eea954de249dccdbd94b testtttt.scadeapp/libtesttttt.dylib
-1564526378c1eb30e765adfc5d4b01c8 testtttt.scadeapp/main.page
-589dbdd2d5cc4eadc17658c664ccf947 testtttt.swiftbuild/Users/unkonow/Scade/testtttt/src/main.page.swift.o

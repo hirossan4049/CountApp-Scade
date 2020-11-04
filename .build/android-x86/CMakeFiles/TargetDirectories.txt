@@ -1,9 +1,0 @@
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/rebuild_cache.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-app.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-app-gradle.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-app-configure-build.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/edit_cache.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-autolink-targ.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-app-write-scripts-list.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt-app-copy.dir
-/Users/unkonow/Scade/testtttt/.build/android-x86/CMakeFiles/testtttt.dir

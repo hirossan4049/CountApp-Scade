@@ -1,4 +1,0 @@
-/Users/unkonow/Scade/testtttt/.build/scade-simulator/CMakeFiles/rebuild_cache.dir
-/Users/unkonow/Scade/testtttt/.build/scade-simulator/CMakeFiles/edit_cache.dir
-/Users/unkonow/Scade/testtttt/.build/scade-simulator/CMakeFiles/testtttt-app.dir
-/Users/unkonow/Scade/testtttt/.build/scade-simulator/CMakeFiles/testtttt.dir

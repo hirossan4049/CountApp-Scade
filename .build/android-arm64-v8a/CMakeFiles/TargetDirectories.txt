@@ -1,9 +1,0 @@
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-app.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-app-gradle.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-app-configure-build.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-autolink-targ.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-app-write-scripts-list.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt-app-copy.dir
-/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/CMakeFiles/testtttt.dir
