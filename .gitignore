@@ -1,7 +1,10 @@
-.build/
-.target/
-products/
+/.build/
+/.target/
+/products/
+/libs/
+
 *.ipa
 *.scadeapp
+*.apk
 .DS_Store
 CMakeLists.txt
