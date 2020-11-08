@@ -1,0 +1,5 @@
+Lottie
+TARGETS
+Lottie lottie-swift/src
+PRODUCTS
+Lottie STATIC_LIBRARY Lottie

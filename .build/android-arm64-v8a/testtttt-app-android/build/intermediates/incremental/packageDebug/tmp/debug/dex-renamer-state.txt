@@ -1,0 +1,7 @@
+#Thu Nov 05 18:00:56 JST 2020
+base.0=/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/testtttt-app-android/build/intermediates/dex/debug/mergeDexDebug/out
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/testtttt-app-android/build/intermediates/dex/debug/mergeDexDebug/out

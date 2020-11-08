@@ -1,0 +1,4 @@
+set solib-search-path /Users/unkonow/Scade/testtttt/.build/android-x86/testtttt-app-android/obj/local/x86
+source /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/prebuilt/common/gdb/common.setup
+directory /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/platforms/android-21/arch-x86/usr/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include /Users/unkonow/Library/Android/sdk/ndk/android-ndk-r19c/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+

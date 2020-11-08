@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/unkonow/Scade/testtttt/.build/android-x86/testtttt-app-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/unkonow/.gradle/caches/transforms-2/files-2.1/7c208fec0da27d72fe4f6e5522997bd9/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "276",
+                        "endColumns": "48",
+                        "endOffsets": "320"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,538 @@
+{
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/AnimationContainer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/AnimationContainer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/AnimationContainer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/CompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/CompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/CompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ImageCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ImageCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ImageCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/MaskContainerLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/MaskContainerLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/MaskContainerLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/NullCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/NullCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/NullCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/PreCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/PreCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/PreCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ShapeCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ShapeCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/ShapeCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/SolidCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/SolidCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/SolidCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/TextCompositionLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/TextCompositionLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/CompLayers/TextCompositionLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/CompositionLayersInitializer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/CompositionLayersInitializer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/CompositionLayersInitializer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/InvertedMatteLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/InvertedMatteLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/InvertedMatteLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerFontProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerFontProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerFontProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTextProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTextProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTextProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTransformNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTransformNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/LayerTransformNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/TextLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/TextLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/LayerContainers/Utility/TextLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Animation.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Animation.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Animation.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/Asset.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/Asset.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/Asset.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/AssetLibrary.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/AssetLibrary.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/AssetLibrary.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/ImageAsset.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/ImageAsset.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/ImageAsset.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/PrecompAsset.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/PrecompAsset.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Assets/PrecompAsset.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Extensions/KeyedDecodingContainerExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Extensions/KeyedDecodingContainerExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Extensions/KeyedDecodingContainerExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/Keyframe.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/Keyframe.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/Keyframe.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/KeyframeGroup.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/KeyframeGroup.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Keyframes/KeyframeGroup.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ImageLayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ImageLayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ImageLayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/LayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/LayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/LayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/PreCompLayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/PreCompLayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/PreCompLayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ShapeLayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ShapeLayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/ShapeLayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/SolidLayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/SolidLayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/SolidLayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/TextLayerModel.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/TextLayerModel.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Layers/TextLayerModel.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/DashPattern.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/DashPattern.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/DashPattern.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Marker.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Marker.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Marker.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Mask.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Mask.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Mask.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Transform.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Transform.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Objects/Transform.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Ellipse.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Ellipse.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Ellipse.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/FillI.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/FillI.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/FillI.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientFill.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientFill.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientFill.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientStroke.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientStroke.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/GradientStroke.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Group.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Group.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Group.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Merge.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Merge.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Merge.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Rectangle.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Rectangle.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Rectangle.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Repeater.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Repeater.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Repeater.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Shape.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Shape.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Shape.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeItem.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeItem.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeItem.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeTransform.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeTransform.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/ShapeTransform.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Star.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Star.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Star.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Stroke.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Stroke.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Stroke.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Trim.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Trim.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/ShapeItems/Trim.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Font.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Font.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Font.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Glyph.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Glyph.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/Glyph.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextAnimator.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextAnimator.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextAnimator.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextDocument.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextDocument.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Model/Text/TextDocument.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Extensions/ItemsExtension.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Extensions/ItemsExtension.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Extensions/ItemsExtension.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/NodeProperty.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/NodeProperty.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/NodeProperty.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyNodeProperty.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyNodeProperty.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyNodeProperty.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyValueContainer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyValueContainer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/AnyValueContainer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/KeypathSearchable.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/KeypathSearchable.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/KeypathSearchable.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/NodePropertyMap.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/NodePropertyMap.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/Protocols/NodePropertyMap.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueContainer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueContainer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueContainer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/GroupInterpolator.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/GroupInterpolator.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/GroupInterpolator.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/KeyframeInterpolator.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/KeyframeInterpolator.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/KeyframeInterpolator.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/SingleValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/SingleValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/NodeProperties/ValueProviders/SingleValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/ModifierNodes/TrimPathNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/ModifierNodes/TrimPathNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/ModifierNodes/TrimPathNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/GroupOutputNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/GroupOutputNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/GroupOutputNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PassThroughOutputNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PassThroughOutputNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PassThroughOutputNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PathOutputNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PathOutputNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/PathOutputNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/FillRenderer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/FillRenderer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/FillRenderer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientFillRenderer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientFillRenderer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientFillRenderer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientStrokeRenderer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientStrokeRenderer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/GradientStrokeRenderer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/StrokeRenderer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/StrokeRenderer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/OutputNodes/Renderables/StrokeRenderer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/EllipseNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/EllipseNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/EllipseNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/PolygonNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/PolygonNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/PolygonNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/RectNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/RectNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/RectNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/ShapeNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/ShapeNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/ShapeNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/StarNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/StarNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/PathNodes/StarNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderContainers/GroupNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderContainers/GroupNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderContainers/GroupNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/FillNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/FillNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/FillNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientFillNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientFillNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientFillNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientStrokeNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientStrokeNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/GradientStrokeNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/StrokeNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/StrokeNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/RenderNodes/StrokeNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/Text/TextAnimatorNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/Text/TextAnimatorNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Nodes/Text/TextAnimatorNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/AnimatorNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/AnimatorNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/AnimatorNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/PathNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/PathNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/PathNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/RenderNode.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/RenderNode.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/Protocols/RenderNode.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeContainerLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeContainerLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeContainerLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeRenderLayer.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeRenderLayer.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/NodeRenderSystem/RenderLayers/ShapeRenderLayer.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/AnimatorNodeDebugging.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/AnimatorNodeDebugging.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/AnimatorNodeDebugging.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/LayerDebugging.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/LayerDebugging.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Debugging/LayerDebugging.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/AnimationKeypathExtension.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/AnimationKeypathExtension.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/AnimationKeypathExtension.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/CGFloatExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/CGFloatExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/CGFloatExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/MathKit.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/MathKit.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/MathKit.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/StringExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/StringExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Extensions/StringExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Helpers/AnimationContext.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Helpers/AnimationContext.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Helpers/AnimationContext.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/Interpolatable.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/Interpolatable.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/Interpolatable.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/InterpolatableExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/InterpolatableExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/InterpolatableExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/KeyframeExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/KeyframeExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Interpolatable/KeyframeExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/BezierPath.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/BezierPath.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/BezierPath.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/ColorExtension.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/ColorExtension.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/ColorExtension.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CompoundBezierPath.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CompoundBezierPath.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CompoundBezierPath.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CurveVertex.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CurveVertex.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/CurveVertex.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/PathElement.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/PathElement.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/PathElement.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/VectorsExtensions.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/VectorsExtensions.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Private/Utility/Primitives/VectorsExtensions.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationPublic.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationPublic.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationPublic.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationView.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationView.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationView.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationViewInitializers.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationViewInitializers.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Animation/AnimationViewInitializers.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/AnimationCacheProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/AnimationCacheProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/AnimationCacheProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/LRUAnimationCache.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/LRUAnimationCache.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/AnimationCache/LRUAnimationCache.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnimationKeypath.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnimationKeypath.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnimationKeypath.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnyValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnyValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/AnyValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/ColorValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/ColorValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/ColorValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/FloatValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/FloatValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/FloatValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/GradientValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/GradientValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/GradientValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/PointValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/PointValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/PointValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/SizeValueProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/SizeValueProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/DynamicProperties/ValueProviders/SizeValueProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/FontProvider/AnimationFontProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/FontProvider/AnimationFontProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/FontProvider/AnimationFontProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/ImageProvider/AnimationImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/ImageProvider/AnimationImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/ImageProvider/AnimationImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/AnimationSubview.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/AnimationSubview.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/AnimationSubview.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/BundleImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/BundleImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/BundleImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/FilepathImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/FilepathImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/FilepathImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/LottieView.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/LottieView.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/MacOS/LottieView.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/AnimationTime.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/AnimationTime.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/AnimationTime.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Color.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Color.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Color.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Vectors.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Vectors.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/Primitives/Vectors.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/TextProvider/AnimationTextProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/TextProvider/AnimationTextProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/TextProvider/AnimationTextProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedButton.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedButton.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedButton.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedControl.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedControl.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedControl.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedSwitch.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedSwitch.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimatedSwitch.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimationSubview.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimationSubview.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/AnimationSubview.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/BundleImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/BundleImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/BundleImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationKeypath.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationKeypath.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationKeypath.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationView.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationView.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/Compatibility/CompatibleAnimationView.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/FilepathImageProvider.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/FilepathImageProvider.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/FilepathImageProvider.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/LottieView.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/LottieView.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/LottieView.swift.dep"
+    },
+    "/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/UIColorExtension.swift": {
+        "object": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/UIColorExtension.swift.o",
+        "dependencies": "/Users/unkonow/Scade/testtttt/.build/android-x86/Lottie-Lottie-dependencies.swiftbuild/Users/unkonow/Scade/testtttt/.build/android-x86/spm/.build/checkouts/lottie-ios/lottie-swift/src/Public/iOS/UIColorExtension.swift.dep"
+    }
+}

@@ -1,5 +1,5 @@
 spm:
-  - url: 
+  - url:
     from:
     path: 
     branch:
@@ -21,7 +21,7 @@ ios:
   app-delegate-file:
   export-method: ad-hoc # app-store, enterprise or development
   simulator:
-    os: 12.1
+    os: 13.0
     output: testtttt/.build/ios-simulator
     extra-args:
     search-paths: []
@@ -74,7 +74,7 @@ android:
   build-type: Debug
   key-store-properties:
   google-api-key: 
-  manifest-file:
+  manifest-file: ./AndroidManifest.xml
   permissions: []
   armeabi-v7a:
     output: testtttt/.build/android-armeabi-v7a
