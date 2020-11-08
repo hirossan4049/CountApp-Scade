@@ -1,2 +1,0 @@
-# Referenced at /Users/unkonow/Scade/testtttt/.build/android-arm64-v8a/testtttt-app-android/build/intermediates/merged_manifests/debug/AndroidManifest.xml:28
--keep class com.scade.phoenix.PhoenixApplication { <init>(); }
